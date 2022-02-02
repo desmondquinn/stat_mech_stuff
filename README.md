@@ -1,5 +1,5 @@
 # stat_mech_stuff
-# will be adding scripts related to statistical mechanics here
+# Will be adding scripts related to Statistical Mechanics here
 
 
 ## The Random Walk Jupyter notebook
